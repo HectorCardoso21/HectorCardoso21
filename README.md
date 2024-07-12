@@ -10,4 +10,4 @@
 [![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular)](https://angular.io/)
 [![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 
-Soy un desarrollador web apasionado por crear experiencias digitales atractivas y funcionales. Me especializo en el desarrollo frontend, utilizando tecnologías modernas para construir aplicaciones web dinámicas y responsivas.
+Soy un desarrollador web apasionado por crear experiencias digitales atractivas y funcionales. Me especializo en el desarrollo , utilizando tecnologías modernas para construir aplicaciones web dinámicas y responsivas.
